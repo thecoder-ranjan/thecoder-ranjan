@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thecoder-ranjan
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently describe new things
+- 💞️ I’m looking to collaborate on ....
 
 <!---
 thecoder-ranjan/thecoder-ranjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
