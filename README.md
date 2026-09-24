@@ -25,7 +25,7 @@
 
 🌱 &nbsp;Currently diving deep into **Full-Stack Web Development**, **Data Structures & Algorithms**, and **System Design**.
 
-🎯 &nbsp;**2025 Goals:** Contribute more to open source, build production-grade projects, and land my first tech internship.
+🎯 &nbsp;**2026 Goals:** Contribute more to open source, build production-grade projects, and land my first tech internship.
 
 ⚡ &nbsp;Fun fact: I think debugging is like being a detective in a crime movie where *you* are also the murderer.
 
