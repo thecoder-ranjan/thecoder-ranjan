@@ -70,9 +70,9 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecoder-ranjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=a9a9b3&ring_color=6c63ff" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thecoder-ranjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=a9a9b3&ring_color=6c63ff" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder-ranjan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=a9a9b3" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thecoder-ranjan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=a9a9b3" height="180" alt="Top Languages" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecoder-ranjan&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecoder-ranjan&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -94,7 +94,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecoder-ranjan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thecoder-ranjan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -107,11 +107,11 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/thecoder-ranjan" target="_blank">
+  <a href="https://www.linkedin.com/in/theranjan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:ranjan@example.com" target="_blank">
+  <a href="mailto:theranjan00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
